@@ -67,6 +67,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Raushan7667">
+                    <img src="https://avatars.githubusercontent.com/u/112778959?v=4" width="100px;"
+                        alt="Raushan_img" />
+                    <br />
+                    <sub>
+                        <b>Raushan Kumar</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://uddipta7.github.io/My-Portfolio/">
                     <img src="https://avatars.githubusercontent.com/u/129296670?v=4" width="100px;"
